@@ -1,6 +1,6 @@
 # Telecom-Industry-Analysis
 
-**View Power BI Dashboard:**
+**View Power BI Dashboard:** https://www.novypro.com/project/telecom-industry-analysis
 
 # Problem Statement
 
