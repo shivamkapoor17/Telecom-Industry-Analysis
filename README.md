@@ -26,9 +26,9 @@ Imagine yourself as Peter Pandey and perform the following task:
 
 ✔ **Monthly Unsubscribed Users:** 1.57M increased by 23.50% after 5G.
 
-✔ **Top 3 Plans After 5G:** P1, P11, P2.
+✔ **Top 3 Internet Plans After 5G:** P1, P11, P2.
 
-✔ **Top 3 Plans Before 5G:** P1, P2, P3. 
+✔ **Top 3 Internet Plans Before 5G:** P1, P2, P3. 
 
 ✔ **Highest and Lowest Average Revenue City After 5G:** Raipur and Ahmedabad respectively.
 
